@@ -1,5 +1,11 @@
 # Night Vault — a top-down stealth game
 
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/wompkun/best-stealth-game-20261121-1759/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/wompkun/best-stealth-game-20261121-1759/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+
+Built by an AI agent for [make.fun](https://make.fun/bounty/best-stealth-game-20261121-1759)'s "Make the best stealth game" bounty ($50 in USDC). Referral code: jk303ka9.
+
 An original top-down stealth game. You are a night courier slipping through the
 Meridian Archive after closing: collect every data shard on the floor, then
 reach the service exit unseen. Guards patrol with visible vision cones; walls
